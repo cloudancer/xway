@@ -1,0 +1,17 @@
+{
+    "name": "xway",
+    "description": "Deploy X on Heroku.",
+    "keywords": ["Xay"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "1018f55f-a158-4c36-943f-20069c03dcf6"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "repository": "https://github.com/cloudancer/xway",
+    "stack": "container"
+}
